@@ -1,0 +1,29 @@
+{
+  "name": "io.github.r4p0.unityumwxsdk",
+  "displayName": "UnityUMWXSDK",
+  "version": "0.0.1",
+  "unity": "2019.4",
+  "unityRelease": "29f1",
+  "description": "Unity 友盟 微信小游戏 SDK",
+  "keywords": [
+    "umeng",
+    "wechat-minigame"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/r4p0/UnityUMWXSDK.git"
+  },
+  "author": {
+    "name": "r4p0",
+    "email": "r4p0@qq.com",
+    "url": "https://github.com/r4p0"
+  },
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "Samples Scene",
+      "path": "Samples~"
+    }
+  ]
+}
